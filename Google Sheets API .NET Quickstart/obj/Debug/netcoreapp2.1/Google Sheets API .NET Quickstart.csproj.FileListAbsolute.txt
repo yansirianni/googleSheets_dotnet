@@ -1,0 +1,24 @@
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.deps.json
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.runtimeconfig.json
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.runtimeconfig.dev.json
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.dll
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.csprojAssemblyReference.cache
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.csproj.CoreCompileInputs.cache
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.AssemblyInfoInputs.cache
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.AssemblyInfo.cs
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.pdb
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.dll
+C:\Users\yan\Desktop\ApiGoogleSheets\Google Sheets API .NET Quickstart\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.pdb
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.deps.json
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.runtimeconfig.json
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.runtimeconfig.dev.json
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.dll
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\bin\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.pdb
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.csprojAssemblyReference.cache
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.csproj.CoreCompileInputs.cache
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.AssemblyInfoInputs.cache
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.AssemblyInfo.cs
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.dll
+C:\Users\yan\Desktop\googleSheets_dotnet\Google Sheets API .NET Quickstart\obj\Debug\netcoreapp2.1\Google Sheets API .NET Quickstart.pdb
