@@ -4,11 +4,11 @@ This is an summary for a important items from this project
 
 ## Important itens
 
-* How to [get a SpreadSheet Id](Documentation/getSpreadsheetId.md)
+* How to [get a SpreadSheet Id](/Documentation/getSpreadsheetId.md)
 
 ## Read
 
-[Click here](Documentation/readMethod.md) to read method description
+[Click here](/Documentation/readMethod.md) to read method description
 
 ## Write
 
@@ -17,4 +17,4 @@ This project contains three methods to write in a sheet:
 2. Update
 3. Remove
 
-[Click here](Documentation/writeMethod.md) to write methods description
+[Click here](/Documentation/writeMethod.md) to write methods description
