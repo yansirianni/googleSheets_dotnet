@@ -2,7 +2,7 @@
 
 Complete the steps described in the rest of this page to create a simple .NET console application that makes requests to the Google Sheets API.
 
-Prerequisites
+#### Prerequisites
 To run this quickstart, you need the following prerequisites:
 
 * Visual Studio 2013 or later
