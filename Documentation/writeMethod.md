@@ -44,7 +44,7 @@ AppendValuesResponse response = request.Execute();
 
 ## Update method
 
-### ### Values are *overridden*
+### Values are *overridden*
 
 The values ​​should be passed by parameter as follows:
 
