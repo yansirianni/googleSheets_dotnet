@@ -18,7 +18,7 @@ In resulting dialog click DOWNLOAD CLIENT CONFIGURATION and save the file creden
 * Create a new Visual C# Console Application project in Visual Studio.
 * Open the NuGet Package Manager Console, select the package source nuget.org, and run the following command:
 
-    Install-Package Google.Apis.Sheets.v4
+        Install-Package Google.Apis.Sheets.v4
 
 ## Step 3: Set up the sample
 * Drag credentials.json (downloaded in Step 1) into your Visual Studio Solution Explorer.
