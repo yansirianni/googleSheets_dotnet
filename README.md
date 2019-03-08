@@ -36,7 +36,7 @@ The first time you run the sample, it will prompt you to authorize access:
 ## Notes
 * Authorization information is stored on the file system, so subsequent executions will not prompt for authorization.
 * The authorization flow in this example is designed for a command-line application. For information on how to perform authorization in a web application, see the web applications section of the library's OAuth 2.0 guide.
-* For more details on this project [Documentation](documentation/guide.md "click here")
+* For more details on this project [click here](Documentation/guide.md)
 
 
 
