@@ -18,3 +18,10 @@ This project contains three methods to write in a sheet:
 3. Remove
 
 [Click here](/Documentation/writeMethod.md) to write methods description
+
+## Note
+
+For more documentation details:
+
+https://developers.google.com/resources/api-libraries/documentation/sheets/v4/csharp/latest/
+https://developers.google.com/sheets/api/reference/rest/
